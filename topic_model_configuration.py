@@ -35,7 +35,7 @@ PROPORTION_OF_LESS_TOPIC_TO_ALLOW = 0.9
 Nr of words to display for each topic
 """
 
-NR_OF_TOP_WORDS = 15
+NR_OF_TOP_WORDS = 50
 
 """
 Nr of most typical document to retrieve for each topic
@@ -65,7 +65,7 @@ PRE_PROCESS = True
 
 VECTOR_LENGTH = 100
 SPACE_FOR_PATH = "/Users/marsk757/wordspaces/69/model.bin"
-MAX_DIST_FOR_CLUSTERING = 0.61
+MAX_DIST_FOR_CLUSTERING = 0.62
 WORDS_NOT_TO_INCLUDE_IN_CLUSTERING_FILE = "not_cluster.txt"
 MANUAL_CLUSTER_FILE = "manual_clusters.txt"
 
@@ -107,7 +107,7 @@ DATA_LABEL_LIST = [{DATA_LABEL: 'Sociala inrättningar och sociala relationer', 
 TOPIC_MODEL_ALGORITHM = NMF_NAME
 
 
-MAX_NR_OF_FEATURES = 10000
+MAX_NR_OF_FEATURES = 100000
 
 # Need to do nltk.download('stopwords') to get it to work
 STOP_WORD_SET = set(stopwords.words('swedish'))
@@ -120,7 +120,7 @@ SHOW_SENTIMENT = False
 
 REMOVE_DUPLICATES = True
 
-MIN_NGRAM_LENGTH_FOR_DUPLICATE = 15
+MIN_NGRAM_LENGTH_FOR_DUPLICATE = 30
 
 BINARY_TF = False
 

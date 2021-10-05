@@ -44,7 +44,7 @@ kvinna kvinnan kvinnans dam
 kvinnor kvinnorna damer
 män männen herrar
 dräng drängen drängens
-piga pigan pigans
+piga pigan pigans bondpiga
 bröder bror syskon systrar syster
 dotter döttrar dottern
 pappa pappan far fadern fäder faderns
@@ -104,7 +104,7 @@ ladugård ladugården
 mjölk mjölken
 prästgård prästgården
 spotta spottade
-bonde bondens bonden
+bonde bondens bonden landbonde landbonden
 hundar hundarna
 princessa princessan princessans
 drottning drottningen drottningens
@@ -138,10 +138,10 @@ byka diskvattnet stänkas
 höstslakten julmorgonen julslakten 
 kälkarna timmerkälkar timmerlass
 husbonde husbondfolket
-hässjade räfsade snarade hässjning
-bäckarna dikade diken dikena fäbodvallen hagarna myrar sjöar skogar ängarna åar
+hässjade räfsade snarade hässjning höhässja krattade
 grisarna höns hönsen kvigor mjölkkor
-dansa sjunga dansade dansar sjunger sjöng sjöngs
+dansa dansade dansar dans dansen  
+sjunga sjunger sjöng sjöngs
 innanfönster innanfönstren
 farstu farstun farstubro farstubron
 halm halmen hö höet
@@ -160,3 +160,68 @@ regn regnet
 vind vinden
 värme värmen
 påsk påsken påskdagen
+skola skolan
+torsk lax strömming sill abborre gädda öring
+bil bilen bilar
+kärra kärran
+traktor traktorn
+vagn vagnen
+lastbil lastbilen
+motorcykel motorcykeln
+bäckar bäckarna 
+dikade diken dikena
+fäbodvall fäbodvallen
+hage hagen hagarna
+myr myren myrar
+sjö sjön sjöar
+skog skogen skogar
+äng ängar ängarna
+å ån åar åarna
+äta åt åts äter
+dricka dricker 
+vit vitt
+stall stallet
+socken socknen
+skriva skriver skrev
+lagård lagårn lagården ladugård ladugården
+köpa köper köpt köpte
+klass klassen
+hus huset
+fäbodar fäbodarna fäboden
+byggd byggt
+auktion auktioner
+arbeta jobba arbetade jobbade
+begåvad duktig skicklig
+kristendom religiös religiösa välsignade
+dikt dikter romaner
+tåg tågen
+bräder bräderna
+dragspel dragspelet fiol fiolen 
+piano pianot
+unga ungdomar ungdomarna
+skolbarn skolbarnen
+fest festen kalas kalaset
+kammare kammaren
+kriget krigsåren världskriget
+missionsförbundet missionskyrkan
+murare snickare
+sadelmakare skomakare skräddare sömmerska
+varv varvet
+hjälpa hjälpte
+spelman spelmannen spelmän spelmännen
+gärsgård gärsgården gärdesgård gärdesgårdarna gärdesgårdar gärsgårdar
+skörd skörden sädesskörd sädesskörden
+tvätt tvätten stortvätt stortvätten tvätta tvättade
+fiska fiskade fiske rödingsfiske
+timmerskog timmerskogen skog skogen
+gårdar gårdarna gårdsplanen
+hemman hemmanet
+kyrkoherde kyrkoherden kyrkvärden prosten kyrkvärd prost präst prästen
+brasa brasan kakelugnarna kakelugnen kaminen  köksspisen spisen  
+torkades tvätta tvättade tvättades tvättar väggar väggarna 
+diska skrubbar skurade skurades torka
+fönstren golv golven golvet korkmattor tak taket mattorna
+lampan lamporna lyktan
+skolsal skolsalen
+skåp skåpen
+säd säden
