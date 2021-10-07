@@ -125,13 +125,13 @@ mjölka mjölkade
 lärarinna lärarinnan
 mögel mögla möglade möglat
 kärringar kärringarna kvinnfolken käringa käringar käring käringen
-arrendegård arrendegården boningshuset stuga stugan stugor
+boningshuset stuga stugan stugor
 fattigstuga fattigstugan 
 fyrbiträde fyrmästare fyrvaktare 
 höskulle höskullen 
 lantbrukselev lantbrukseleven
 uthus uthusen
-baka tinade torkade kokade kokades saltade saltades
+baka tinade kokade kokades saltade saltades
 cykel cykeln cykla cyklade
 fläskbit rotben
 byka diskvattnet stänkas 
@@ -142,7 +142,7 @@ hässjade räfsade snarade hässjning höhässja krattade
 grisarna höns hönsen kvigor mjölkkor
 dansa dansade dansar dans dansen  
 sjunga sjunger sjöng sjöngs
-innanfönster innanfönstren
+innanfönster innanfönstren fönstren
 farstu farstun farstubro farstubron
 halm halmen hö höet
 morgnarna morgonen mornarna
@@ -177,7 +177,7 @@ sjö sjön sjöar
 skog skogen skogar
 äng ängar ängarna
 å ån åar åarna
-äta åt åts äter
+äta åts äter
 dricka dricker 
 vit vitt
 stall stallet
@@ -218,10 +218,33 @@ gårdar gårdarna gårdsplanen
 hemman hemmanet
 kyrkoherde kyrkoherden kyrkvärden prosten kyrkvärd prost präst prästen
 brasa brasan kakelugnarna kakelugnen kaminen  köksspisen spisen  
-torkades tvätta tvättade tvättades tvättar väggar väggarna 
+tvätta tvättade tvättades tvättar 
 diska skrubbar skurade skurades torka
-fönstren golv golven golvet korkmattor tak taket mattorna
+golv golven golvet korkmattor tak taket mattorna
 lampan lamporna lyktan
 skolsal skolsalen
 skåp skåpen
 säd säden
+arrendator arrendatorn
+arrendet arrende arrendegård arrendegården
+baka bakade
+barn barnet barnen barnets barnen barna barnens
+båt båtar båtarna båten fartyg fartygen fyrskepp segelfartyg skepp skonare
+björn björnen
+älg älgar
+formar formarna
+kaffe kaffet
+kopp koppar
+vispade vispar
+potatis potatisen rotfrukter
+blåbär hallon hjortron lingon lingonen krusbär
+hemstickade hemsydda
+nystan garn
+sydde syddes
+byar byarna byn by
+julafton juldagen julen jul
+kväll torsdagskväll kvällarna kvällen
+slaktade slaktades slakt
+stockholm sthlm
+unga ungdomar ungdomarna ungdom ungdomen
+salta saltade saltades 

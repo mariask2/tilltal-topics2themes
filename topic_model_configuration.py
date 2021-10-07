@@ -35,13 +35,13 @@ PROPORTION_OF_LESS_TOPIC_TO_ALLOW = 0.9
 Nr of words to display for each topic
 """
 
-NR_OF_TOP_WORDS = 50
+NR_OF_TOP_WORDS = 30
 
 """
 Nr of most typical document to retrieve for each topic
 """
 
-NR_OF_TOP_DOCUMENTS = 50
+NR_OF_TOP_DOCUMENTS = 30
 
 """
 Number of runs to check the stability of the retrieved topics.

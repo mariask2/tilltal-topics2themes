@@ -737,3 +737,6 @@ stått
 stötte
 uttr
 vitter
+torka
+torkade
+torkades
