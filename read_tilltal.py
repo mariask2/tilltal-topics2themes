@@ -91,6 +91,7 @@ for el in data:
     if not os.path.exists(path):
         os.makedirs(path)
     n = current_inspelning + "_" + str(inspelning_counter)
+    classifications = list(set(classifications))
     classification_dict[n] = classifications
     
     if n not in dupletter:
