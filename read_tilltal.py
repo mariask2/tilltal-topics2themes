@@ -73,7 +73,10 @@ for el in data:
         additional_info_str = ""
         if len(additional_info) > 0:
             additional_info_str = " (" + "/".join(additional_info) + ")"
-        classifications.append(classification["Rubrik"].strip() + additional_info_str + " [" + classification["Huvudrubrik"] + "]")
+            
+        classification_to_append = classification["Rubrik"].strip() + additional_info_str + " [" + classification["Huvudrubrik"] + "]"
+        if len(classification_to_append.replace("[", "").replace("]","").replace(" ", "")) > 0:
+            classifications.append(classification_to_append)
         
         if classification["Huvudrubrik"]:
             main_classifications.append(classification["Huvudrubrik"])
